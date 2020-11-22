@@ -8,6 +8,10 @@
 }
 .display-4{
     font-weight: 600 !important;
+    padding: 10px;
+}
+.card{
+    min-width: 250px !important;
 }
 .lead{
     margin-top: 30px;
@@ -17,9 +21,35 @@
 }
 .bg-portada{
     background: url(/imagenes/portada.jpg);
+    background-size: cover;
+}
+a{
+    cursor: pointer;
+}
+.btns{
+    align-self: center;
+    text-align: center;
+}
+.btns a{
+ display: block;
+ margin: 15px;
+}
+.card div{
+    flex-wrap: inherit;
+}
+.circulo{
+    background-color: blue;
+    border:2px solid black;
+    height: 20px;
+    width: 20px;
+    margin: auto;
+    border-radius: 100%;
+}
+.display-4 span{
+    color: #28a745
 }
 .black-filter{
-    padding: 6rem 1rem;
+    padding: 6rem 3rem;
     background:linear-gradient(118deg, rgba(0,0,0,0.9555419579941351) 5%, rgba(0,0,0,0.9555419579941351) 11%, rgba(0,0,0,0.5409761316636029) 49%);
 }
 .black-filter h1{
