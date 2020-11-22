@@ -1,3 +1,30 @@
 *, body{    
     font-family: 'Poppins', sans-serif;
 }
+
+.head-nav{
+    padding:10px 40px !important;
+    background-color: #231F20 !important;
+}
+.display-4{
+    font-weight: 600 !important;
+}
+.lead{
+    margin-top: 30px;
+}
+.circle{
+    border-radius: 50px !important;
+}
+.bg-portada{
+    background: url(/imagenes/portada.jpg);
+}
+.black-filter{
+    padding: 6rem 1rem;
+    background:linear-gradient(118deg, rgba(0,0,0,0.9555419579941351) 5%, rgba(0,0,0,0.9555419579941351) 11%, rgba(0,0,0,0.5409761316636029) 49%);
+}
+.black-filter h1{
+    color: white;
+}
+.black-filter p{
+    color:white;
+}
