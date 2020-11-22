@@ -10,6 +10,12 @@
     font-weight: 600 !important;
     padding: 10px;
 }
+.display-3{
+    font-weight: 600 !important;
+    padding: 10px;
+    color: white;
+    font-size: 26px !important;
+}
 .card{
     min-width: 250px !important;
 }
@@ -19,9 +25,28 @@
 .circle{
     border-radius: 50px !important;
 }
+.pricing h5{
+    font-weight: 700;
+    font-size: 24px;
+}
+.price div{
+    padding: 20px;
+}
+.price{
+    margin:30px;
+}
+.pricing div{
+    padding: 20px 0px;
+}
+
 .bg-portada{
     background: url(/imagenes/portada.jpg);
     background-size: cover;
+}
+.foo{
+    padding: 50px;
+    background: #231F20;
+    margin-top: 40px;
 }
 a{
     cursor: pointer;
