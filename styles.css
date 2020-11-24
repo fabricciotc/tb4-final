@@ -40,7 +40,7 @@
 }
 
 .bg-portada{
-    background: url(/imagenes/portada.jpg);
+    background: url(imagenes/portada.jpg);
     background-size: cover;
 }
 .foo{
