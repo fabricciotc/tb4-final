@@ -1,4 +1,4 @@
-#Landing Page del Colegio
+# Landing Page del Colegio
 ## Curso de: IHC
 ### Github Page
 
